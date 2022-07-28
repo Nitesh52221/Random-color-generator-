@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+.container {
+  text-align: center;
+  background: white;
+  width: 90%;
+  margin: 10px auto;
+  border-radius: 10px;
+}
+
+h2 {
+  text-align: center;
+  /* background: white; */
+  /* border: 2px solid red; */
+  width: 30%;
+  margin: 10px auto;
+}
